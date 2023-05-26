@@ -1,4 +1,4 @@
-# ONPREMISE TO CLOUD
+# ONPREMISES TO CLOUD
 
 ![image](https://github.com/harshith1315/ONPREMISETOCLOUD/assets/111886682/7f5b7c0c-7375-457c-8dd3-012775809ad6)
 
